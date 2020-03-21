@@ -1,0 +1,4 @@
+main: me.kitsextension.main.KitExtensionMain
+name: KitExtension
+version: 1.0.0
+depend: [Vault]
